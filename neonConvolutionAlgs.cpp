@@ -1,6 +1,6 @@
 #include "neonConvolutionAlgs.h"
 
-/* Helper functions for convolution from ARM Compute Library */
+/* Helper functions for convolution from ARM Compute Library: https://github.com/ARM-software/ComputeLibrary */
 
 /**
  * Use: loading first 3 elements of a 5x5 kernel row for convolver
